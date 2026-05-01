@@ -49,13 +49,13 @@ Responders log in, see incoming emergencies assigned to them, accept the call, a
 #### 5. Live Route Tracking
 > Track the responder live as they make their way to you
  
-<img src="https://github.com/user-attachments/assets/28b1edd6-b694-459f-91fe-9b31b5818bb8" width="300" alt="Live Route Tracking" />
+<img src="https://github.com/user-attachments/assets/66c74880-6090-4644-9c12-8550e81021f9" width="300" alt="Live Route Tracking" />
 ---
  
 #### 6. Auto Call Option — Appears After 10 Seconds
 > For citizens who are too shaken to act, the call option automatically appears 10 seconds after the SOS request
  
-<img src="https://github.com/user-attachments/assets/66c74880-6090-4644-9c12-8550e81021f9" width="300" alt="Auto Call Option After 10 Seconds" />
+<img src="https://github.com/user-attachments/assets/28b1edd6-b694-459f-91fe-9b31b5818bb8" width="300" alt="Auto Call Option After 10 Seconds" />
 ---
  
 ### 📱 Mobile App — Community Crime Map
@@ -212,4 +212,3 @@ SOS-App-and-Dashboards-Showcase/
 ---
  
 > Built by **Radebe Innovations** 🚀
- 
